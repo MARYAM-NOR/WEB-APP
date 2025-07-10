@@ -9,6 +9,7 @@ Beyond individual showcases, the portal integrates robust administrative control
 ✨ Key Features
 The portal offers a rich set of functionalities, catering to both student users and administrative staff:
 
+
 For Students:
 User Registration & Login: Secure account creation and authentication with distinct role-based access.
 
@@ -30,6 +31,8 @@ News & Announcements: Stay informed with real-time updates, event notifications,
 
 Shopping Cart (Conceptual): A section designed for future expansion to facilitate the offering and selection of student services or "gigs."
 
+
+
 For Administrators:
 Admin Dashboard: A centralized control panel providing an overview of portal activity and quick access to management tools.
 
@@ -42,6 +45,8 @@ Announcements Management: Create, edit, and delete system-wide announcements to 
 FAQ Management: Maintain the knowledge base by adding new questions and answers, editing existing entries, and responding to user-submitted questions.
 
 Activity Analytics: Monitor key metrics such as total users, portfolios, wall posts, and feedback to gain insights into platform usage.
+
+
 
 🛠️ Technologies Used
 This project is built upon a robust and widely used web development stack:
