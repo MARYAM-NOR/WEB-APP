@@ -1,15 +1,20 @@
 MMU Talent Showcase Portal
 
+
 Project Overview
 The MMU Talent Showcase Portal is a centralized, secure, and user-friendly web application designed to empower Multimedia University (MMU) students to showcase their academic, technical, and creative talents. It provides a platform for students to create personalized profiles, upload diverse portfolios (e.g., code, artwork, videos, writing), engage with peers through a public feedback wall and talent request board, and connect with potential collaborators.
 
 The portal also incorporates robust administrative controls for content moderation, announcement postings, and activity analytics, ensuring a high standard of quality and governance.
 
+
 Features
 The portal includes a comprehensive set of features for both students and administrators:
 
+
 User Features:
 User Registration & Login: Secure authentication with role-based access.
+
+
 
 User Profile Management: Create and maintain personalized profiles with bios, talent categories, and profile pictures.
 
@@ -29,6 +34,8 @@ News & Announcements: Stay updated with the latest news and announcements posted
 
 Shopping Cart (Conceptual): A section for selected gig offerings.
 
+
+
 Admin Features:
 Admin Dashboard: Centralized control panel to manage the portal.
 
@@ -41,6 +48,8 @@ Announcements Management: Post, edit, and delete system-wide announcements.
 FAQ Management: Add, edit, and delete FAQs, and respond to user-submitted questions.
 
 Activity Analytics: Monitor user logins, uploads, and overall platform activity.
+
+
 
 Technologies Used
 The MMU Talent Showcase Portal is built using a standard web development stack:
